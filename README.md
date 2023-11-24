@@ -1,2 +1,2 @@
 # lab-work-5
-#Polygon, Point, Color
+#In this lab I demonstrate 4 point in 2D space
