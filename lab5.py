@@ -1,4 +1,4 @@
-"""This module demonstrates 3 classes"""
+"""This module contains classes for working with geometric figures in 2D space"""
 import math
 from enum import Enum
 
