@@ -1,2 +1,3 @@
 # lab-work-5
-#In this lab I demonstrate 4 point in 2D space
+This module contains classes for working with geometric figures in two-dimensional space.
+We set the points, sort them by X and Y, find the perimeter and the largest diagonal
