@@ -53,8 +53,7 @@ class Polynom:
                 y = self.points[i].get_y() - self.points[j].get_y()
                 diagonal = math.sqrt(x**2 + y**2)
                 values.append(diagonal)
-                longest_diagonal = max(values)
-        return longest_diagonal
+        return max(values)
 
     def sort_by_x(self):
         """Sort the points of the polygon by their x-coordinates."""
